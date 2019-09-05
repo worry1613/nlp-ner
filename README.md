@@ -15,7 +15,7 @@ python3
 **nerpredit.py**  
 用训练好的模形预测NER内容。此文件只在python3环境下测试通过。  
 **conlleval.py**  
-分析crf用训练好的模形预测NER内容。此文件只在python3环境下测试通过。  
+分析crf用训练好的模形预测NER内容。  
 ## 工具
 CRF++,安装，使用说明请自行百度，下载 https://taku910.github.io/crfpp/#download  
 使用的CRF++版本是0.59
